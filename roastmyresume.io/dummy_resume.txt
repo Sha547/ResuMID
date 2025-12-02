@@ -1,0 +1,4 @@
+This is a dummy resume for testing purposes.
+Name: John Doe
+Experience: 10 years of doing nothing.
+Skills: Breathing, sleeping.
